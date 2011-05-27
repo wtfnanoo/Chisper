@@ -16,7 +16,7 @@ Il utilise PHP 5
 Plus d'informations
 -------------------
 
-Vous pouvez aller visiter Chisper [ici][1]
+Vous pouvez aller visiter [Chisper ici][1]
 N'hésitez pas à nous faire part d'éventuelles modifications ou encore de bugs présents sur le site.
 
 [1]: http://chisper.com
